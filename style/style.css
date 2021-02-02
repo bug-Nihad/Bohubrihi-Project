@@ -12,6 +12,6 @@ body{
     background-color: rgb(48, 43, 43);
     
 }
-.navbar-container ul{
-    margin: auto;
+.about-container{
+    background-color: #0dc5c5;
 }
