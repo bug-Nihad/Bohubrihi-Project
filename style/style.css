@@ -8,3 +8,10 @@ body{
     background-color: #575050a4;
     margin: auto;
 }
+.navbar-container{
+    background-color: rgb(48, 43, 43);
+    
+}
+.navbar-container ul{
+    margin: auto;
+}
