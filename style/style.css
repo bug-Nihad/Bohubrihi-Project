@@ -2,10 +2,10 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .banner-container{
-    background-color: #acaaaa;
+    background-color: #9ea2ac;
 }
 .banner-column{
-    background-color: #575050a4;
+    background-color: #4d545fa4;
     margin: auto;
 }
 .navbar-container{
@@ -13,5 +13,15 @@ body{
     
 }
 .about-container{
-    background-color: #0dc5c5;
+    background-color: #396868;
+}
+.education-container{
+    background-color: rgb(155, 200, 226);
+    
+}
+.circle{
+    background-color: rgb(231, 82, 13);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
 }
