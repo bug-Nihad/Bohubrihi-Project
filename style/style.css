@@ -49,3 +49,9 @@ body{
 .red-bg:hover{
     color: white;
 }
+.footer{
+    background-color: rgb(100, 166, 211);
+}
+.anchor{
+    color: inherit;
+}
